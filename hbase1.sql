@@ -1,4 +1,3 @@
-asds
 scan 't3',{COLUMNS => 'f2:cq', VERSIONS => 4};
 
 get 't3', 'r1', {COLUMN => 'f2:cq',  VERSIONS => 4};
