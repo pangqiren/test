@@ -2,7 +2,7 @@ scan 't3',{COLUMNS => 'f2:cq', VERSIONS => 4};
 
 get 't3', 'r1', {COLUMN => 'f2:cq',  VERSIONS => 4};
 
-
+jjj
 put 't1','r1','f1:cq','value1';
 put 't1','r1','f1:cq','value2';
 
